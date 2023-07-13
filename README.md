@@ -12,6 +12,8 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: you have several links to my social media (Twitter, GitHub and my WebSite).
 - ⚡ Fun fact: I'm kind of new on programming, but eager to learn more!
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTurtle01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologías/Tech:
@@ -36,4 +38,5 @@ Here are some ideas to get you started: -->
 ## Find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@oscarmirass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/oscarmirass)
+<br>
 [![Web](https://img.shields.io/badge/Web-notturtle01.github.io-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://notturtle01.github.io)

@@ -35,5 +35,5 @@ Here are some ideas to get you started: -->
 
 ## Find me on:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/oscarmirass)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://notturtle01.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-@oscarmirass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/oscarmirass)
+[![Web](https://img.shields.io/badge/Web-notturtle01.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://notturtle01.github.io)

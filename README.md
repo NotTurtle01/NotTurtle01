@@ -36,4 +36,4 @@ Here are some ideas to get you started: -->
 ## Find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@oscarmirass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/oscarmirass)
-[![Web](https://img.shields.io/badge/Web-notturtle01.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://notturtle01.github.io)
+[![Web](https://img.shields.io/badge/Link_Site-notturtle01-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://notturtle01.github.io)

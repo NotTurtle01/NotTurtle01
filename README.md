@@ -12,6 +12,4 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: you have several links to my social media (Twitter, GitHub and my WebSite).
 - ⚡ Fun fact: I'm kind of new on programming, but eager to learn more!
 
-Favourite Languages --> 
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTurtle01)
